@@ -300,7 +300,9 @@ span {
 
 @media (max-width: 480px) {
   .container-box{
-    width: 300px;
+    width: 330px;
+    display: grid;
+    justify-self: center;
   }
   .banner,
   .banner-2,
